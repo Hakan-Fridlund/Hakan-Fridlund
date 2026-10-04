@@ -1,4 +1,4 @@
-# Hi, I'm Håkan! 👋
+# Hi, I'm Håkan!
 
 ### 📊 Data Scientist Student | Machine Learning Enthusiast 
 
